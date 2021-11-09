@@ -262,7 +262,8 @@ background:brown
   justify-content: center;
 }
 .end{
-  padding:80px;
+  padding:40px;
+
 }
 .end a{
   text-decoration: none;
@@ -283,4 +284,10 @@ background:brown
   font-size: 20px;
   color: white;
   clear: both;
+}
+.lst{
+  display: flex;
+  justify-content: center;
+  background:#c96464;
+  padding: 10px;
 }
